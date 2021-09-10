@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "кот",
+      "price": "кот",
+      "photo": "https://img1.goodfon.ru/wallpaper/nbig/f/29/kot-ryzhiy-zevaet-cat-ginger.jpg",
+      "description": "кот",
+      "id": 3
+    },
+    {
+      "title": "1",
+      "price": "1",
+      "photo": "https://i.pinimg.com/736x/98/d8/4c/98d84c9c624b3576d978c827d0780798--the-number--white-image.jpg",
+      "description": "1",
+      "id": 5
+    },
+    {
+      "title": "transformers friendship in disguise",
+      "price": "1$",
+      "photo": "https://pbs.twimg.com/media/ExwTKnyXMAMGL5o.jpg",
+      "description": "книга",
+      "id": 6
+    },
+    {
+      "title": "лицо",
+      "price": "10000$",
+      "photo": "https://sun9-65.userapi.com/impf/c844521/v844521517/14ab48/942ZqyU1zCY.jpg?size=604x341&quality=96&sign=e653df1da320bb90128e917b17c696b6&type=album",
+      "description": "лицо",
+      "id": 7
+    }
+  ]
+}
