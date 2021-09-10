@@ -10,7 +10,7 @@ const CustomTable = () => {
     useEffect(() => {
         getProducts()
     }, [])
-    console.log(products)
+
     // getProducts()
     return (
         <>
